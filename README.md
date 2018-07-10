@@ -1,5 +1,5 @@
-# BuzzCoin Bootstrap
-[latest](https://github.com/buzzcoin-project/BUZZbootstrap/releases/latest)
+# BuzzCoin Bootstrap [download here](https://github.com/buzzcoin-project/BUZZbootstrap/releases/latest)
+
 If this is your first installation and have never run a BUZZcoin Wallet, you must download and install the bootstrap.
 BUZZcoin has a very long history and the wallet 3.1.1 can not sync without the bootstrap. 
 If you're trying to fix a non-synchronizing wallet or a wallet that does not find connections, please download the peers.dat first and follow the installation guide. If you still experience syncing problems, please do a full bootstrap installation.
